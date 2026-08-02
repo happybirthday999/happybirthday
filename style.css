@@ -558,7 +558,7 @@
   .c1{ top:6%;  left:0%;   animation-delay:.2s; }
   .c2{ top:2%;  right:2%;  animation-delay:.4s; }
   .c3{ top:38%; left:-2%; animation-delay:.6s; }
-  .c4{ top:36%; right:-4%; animation-delay:.8s; }
+  .c4{ top:36%; right:-2%; animation-delay:.8s; }
   .c5{ bottom:8%; left:3%;  animation-delay:1s; }
   .c6{ bottom:6%; right:1%; animation-delay:1.2s; }
   .flower-caption{
